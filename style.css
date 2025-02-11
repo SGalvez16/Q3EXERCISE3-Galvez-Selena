@@ -1,0 +1,14 @@
+body{
+	background-color: #6889a9 ;
+}
+
+.container{
+	padding: 5px;
+	background-color: 	#abcff2;
+	outline: 5px white;
+	box-shadow: 10px 10px 10px 4px rgba(135,177,232,0.75);
+}
+
+h1 {
+	text-align: center;
+}
